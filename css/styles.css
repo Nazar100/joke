@@ -1,0 +1,8 @@
+p {
+  font-size: 60px;
+}
+.lol::selection {
+  background-color: black;
+  color: brown;
+  font-size: 70px;
+}
